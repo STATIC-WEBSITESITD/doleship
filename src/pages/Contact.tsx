@@ -41,7 +41,7 @@ const Contact = () => {
             {/* Contact Info */}
             <div className="space-y-6">
               {[
-                { icon: MapPin, title: "Head Office", lines: ["Office No. 6, 7th Floor,", "World Trade Centre-1,", "Cuffe Parade, Mumbai,", "Maharashtra, India"] },
+                { icon: MapPin, title: "Head Office", lines: ["Office no. 12, 17th floor,", "World Trade Centre-1,", "Cuffe Parade, Mumbai,", "Maharashtra, India"] },
                 { icon: Phone, title: "Phone", lines: ["+91 22 4581 5315"] },
                 { icon: Mail, title: "Email", lines: ["info@doleship.com"] },
                 { icon: Clock, title: "Business Hours", lines: ["Mon – Fri: 9:00 AM – 6:00 PM IST", "Sat: 9:00 AM – 1:00 PM IST"] },
@@ -120,7 +120,7 @@ const Contact = () => {
           <div className="rounded-lg overflow-hidden h-[350px] bg-muted flex items-center justify-center">
             <div className="text-center">
               <MapPin className="h-12 w-12 text-muted-foreground mx-auto mb-3" />
-              <p className="text-muted-foreground font-medium">World Trade Centre-1, Cuffe Parade, Mumbai</p>
+              <p className="text-muted-foreground font-medium">Office no. 12, 17th floor, World Trade Centre-1, Cuffe Parade, Mumbai</p>
               <p className="text-muted-foreground text-sm mt-1">Google Maps integration available on production</p>
             </div>
           </div>

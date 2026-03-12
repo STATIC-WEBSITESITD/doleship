@@ -148,7 +148,7 @@ const Layout = ({ children }: { children: React.ReactNode }) => {
             </div>
             <div>
               <h4 className="font-display text-base font-semibold mb-4">Head Office</h4>
-              <p className="text-sm opacity-80 leading-relaxed">Office No. 6, 7th Floor,<br />World Trade Centre-1,<br />Cuffe Parade, Mumbai,<br />Maharashtra, India</p>
+              <p className="text-sm opacity-80 leading-relaxed">Office no. 12, 17th floor,<br />World Trade Centre-1,<br />Cuffe Parade, Mumbai,<br />Maharashtra, India</p>
 <p className="text-sm opacity-80 mt-3">+91 22 4581 5315</p>
               <p className="text-sm opacity-80">info@doleship.com</p>
             </div>
